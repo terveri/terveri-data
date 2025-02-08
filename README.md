@@ -2,9 +2,13 @@
 
 Open data for Terveri
 
+## Contributing
 
-## Copyright and license
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details on
+how to make a contribution.
 
-Copyright © 2025 Tom Marble
+## Copyright and License
+
+Copyright © 2025 Informatique, Inc.
 
 Licensed under the [CC0](https://creativecommons.org/public-domain/cc0/) [LICENSE](LICENSE)
