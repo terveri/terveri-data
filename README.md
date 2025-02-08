@@ -3,8 +3,8 @@
 Open data for Terveri
 
 
-## Copyright and license
+## Copyright and License
 
-Copyright © 2025 Tom Marble
+Copyright © 2025 Informatique, Inc.
 
 Licensed under the [CC0](https://creativecommons.org/public-domain/cc0/) [LICENSE](LICENSE)
